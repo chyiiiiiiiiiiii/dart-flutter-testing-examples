@@ -1,5 +1,7 @@
 # Flutter Testing Examples
 
+[![Chinese Version](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87%E7%89%88-blue)](README_zh.md)
+
 A Flutter project designed to demonstrate and implement various testing methodologies, including **unit tests**, **widget tests**, and **integration tests**.
 
 ## Table of Contents
