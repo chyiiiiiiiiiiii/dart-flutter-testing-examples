@@ -2,7 +2,7 @@
 
 [![English Version](https://img.shields.io/badge/README-English-blue)](README.md)
 
-一個旨在演示和實現各種測試方法的 Flutter 項目，包括 **單元測試**、**元件測試** 和 **整合測試**。
+一個展示和實現各種測試方法的 Flutter 項目，包括 **單元測試**、**元件測試** 和 **整合測試**。
 
 ## 目錄
 
@@ -60,14 +60,14 @@
 ## 專案結構
 
 - **lib/**:
- - **main.dart**：應用程式的入口點。
- - **home_screen.dart**：應用程式的主畫面。
- - **quiz_screen.dart**：具有狀態管理的測驗功能。
- - **data/posts.dart**：資料模型或服務。
+  - **main.dart**：應用程式的入口點。
+  - **home_screen.dart**：應用程式的主畫面。
+  - **quiz_screen.dart**：具有狀態管理的測驗功能。
+  - **data/posts.dart**：資料模型或服務。
 
 - **test/**：包含所有測試檔案。
- - **unit/**：單一元件的單元測試。
- - **widget/**：UI 元件的小工具測試。
+  - **unit/**：單一元件的單元測試。
+  - **widget/**：UI 元件的小工具測試。
 
 - **integration_test/**：包含與完整應用互動的整合測試。
 
